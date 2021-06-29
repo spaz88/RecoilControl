@@ -1,0 +1,7 @@
+﻿  Recoil.cpp
+C:\Users\installateur\source\repos\Recoil\Recoil\Recoil.cpp(27,32): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\installateur\source\repos\Recoil\Recoil\Recoil.cpp(43,21): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+LINK : warning LNK4075: ' /INCREMENTAL' ignoré à cause de la spécification '/FORCE'
+Recoil.obj : warning LNK4006: "void __cdecl mouse_mouvement(int,int)" (?mouse_mouvement@@YAXHH@Z) déjà défini dans mouse_data.obj ; seconde définition ignorée
+C:\Users\installateur\source\repos\Recoil\Debug\Recoil.exe : warning LNK4088: image en cours de génération à cause de l'option /FORCE ; l'image risque de ne pas s'exécuter
+  Recoil.vcxproj -> C:\Users\installateur\source\repos\Recoil\Debug\Recoil.exe

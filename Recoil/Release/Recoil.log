@@ -1,0 +1,9 @@
+﻿  Recoil.cpp
+C:\Users\installateur\source\repos\Recoil\Recoil\Recoil.cpp(25,32): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\installateur\source\repos\Recoil\Recoil\Recoil.cpp(41,21): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+  mouse_data.cpp
+  Génération de code en cours
+  Previous IPDB not found, fall back to full compilation.
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  Recoil.vcxproj -> C:\Users\installateur\source\repos\Recoil\Release\Recoil.exe
